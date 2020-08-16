@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "cateId": "7xga3ns1z",
+      "name": " giày thể thao nữ màu trắng, giày nữ trắng đế cao",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fimages%20(1).jfif?alt=media&token=62682a0d-c866-4bf6-aaa5-b8a56f5a71f8",
+      "price": "12000000",
+      "detail": "Giày Nữ - Giày NữLời đầu tiên cho Shop xin lời cảm ơn chân thành đến các bạn vì đã quan tâm và mua sản phẩm của Shop. Rất mong các bạn hãy là những ng"
+    },
+    {
+      "name": " Shopee Giày Fulllll Trắng Đế Sóng Đẹp",
+      "cateId": "7g789d60q",
+      "image": "https://cf.shopee.vn/file/a8e79958f1714c1a675e8e3357e05cd9",
+      "price": "12000000",
+      "detail": "Máy đẹp và phụ kiện đẹp",
+      "id": 2
+    },
+    {
+      "name": " Giày Anh Khoa Giày Thể Thao Anh Khoa AK701 - Vải Lưới Khô Thoáng Thoải Mái Vận Động Không Lo Mồ Hôi",
+      "cateId": "7g789d60q",
+      "image": "https://giaythoitranganhkhoa.com/image/cache/catalog/GI%C3%80Y%20TH%E1%BB%82%20THAO/AK701/AK53783_LIGHT%20(4)-2048x2048.jpg",
+      "price": "10000000",
+      "detail": "Mua sỉ Giầy Nữ được bán buôn bởi ✅ Trung Tổng Kho Sneaker. ✓ Mua sỉ từ 500 Cái. ✓ 1,000 sản phẩm mới giá tốt mỗi ngày từ hơn 60,000 nhà cung cấp trên ...",
+      "id": 4
+    },
+    {
+      "name": " Handsome Shoes Giày thể thao nam Adidas màu trắng",
+      "cateId": "lxb4uqiwq",
+      "image": "https://file.hstatic.net/1000069459/file/giay-the-thao-101_712234e534414cac92914fea7c136022_grande.jpg",
+      "price": "10000000",
+      "detail": "Máy đẹp và phụ kiện đẹp",
+      "id": 5
+    },
+    {
+      "name": " Shopee [FULLBOX-NHƯ HÌNH] Giày Nam Thể Thao adidas alphabouce full trắng Đẹp | Giày thể thao nam Hàn Quốc ",
+      "cateId": "lxb4uqiwq",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUe0Y2lY_EBfcOi4QWgQrMUsxZql3FIvSo7Q&usqp=CAU",
+      "price": "50000000",
+      "detail": "Giày Fila Disruptor 2 Script White Unisex màu trắng chính hãng Hàn Quốc, với kiểu dáng thời trang mang phong cách Hàn Quốc. Kiểu dáng thể thao, đế ...",
+      "id": 6
+    },
+    {
+      "name": " Nhím Shop Giày thể thao dáng Converse cho bé trai và bé gái T11 đen",
+      "cateId": "lxb4uqiwq",
+      "image": "https://product.hstatic.net/1000011840/product/giay-the-thao-dang-cover-t11-den-1_49d4f64ffb8540ba8b8b0729b5d81278_master.jpg",
+      "price": "50000000",
+      "detail": "Máy đẹp và phụ kiện đẹp",
+      "id": 7
+    },
+    {
+      "name": " Nhím Shop Giày thể thao trắng cho bé trai, bé gái học sinh tiểu trung học GB03",
+      "cateId": "7xga3ns1z",
+      "image": "https://product.hstatic.net/1000011840/product/giay-trang-hoc-sinh-giay-tre-em-nhimshop-gb03_master.jpg",
+      "price": "50000000",
+      "detail": "Mua ngay (4 Màu kèm Video) giầy thể thao, giầy sneaker nữ thơi trang hàn quốc màu kem màu hồng màu trắng màu đen chất vải đi êm chân vietnam Giày ",
+      "id": 9
+    },
+    {
+      "name": "GIẦY THỂ THAO ĐÔI 8126",
+      "cateId": "7xga3ns1z",
+      "image": "https://bucket.nhanh.vn/store/10466/ps/20191026/8126_2_thumb.png",
+      "price": "750,000",
+      "detail": "Giày thể thao nam nữ phản quang (không phải phát sáng nhé khách)., size 35 - 42, Đế cao khoảng 5cm, - Phù hợp với mọi hoạt động: đi du lịch, đi dạo, ...",
+      "id": 10
+    },
+    {
+      "name": "Mickey QC ",
+      "cateId": "lmd791oy3",
+      "image": "https://ann.com.vn/wp-content/uploads/12177-33941dd8f22b0875513a14.png",
+      "price": "295000",
+      "detail": ".. Xưởng sỉ quần áo ANN chuyên sỉ quần áo nam nữ chất lượng tốt giá gốc không qua trung gian. Chất liệu tổng hợp.Size: 35-36-37-38-39Size chuẩn khách ...",
+      "id": 11
+    },
+    {
+      "id": "1fvwfqk64",
+      "name": "Sam Sung A50",
+      "cateId": "7xga3ns1z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fgiay-the-thao-dang-cover-t11-den-1_49d4f64ffb8540ba8b8b0729b5d81278_master.webp?alt=media&token=47e70d29-320f-46df-8b1b-48e019c1160d",
+      "price": "50000000",
+      "detail": "Giày thể thao nam nữ phản quang (không phải phát sáng nhé khách)., size 35 - 42, Đế cao khoảng 5cm, - Phù hợp với mọi hoạt động: đi du lịch, đi dạo, ..."
+    },
+    {
+      "id": "bzruko9mu",
+      "cateId": "lmd791oy3",
+      "name": "Giầy Nam giới trẻ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2F89666746fe7852ecd1af399f29ff4cf1.jfif?alt=media&token=8b5344bd-b044-40eb-ae94-425772896a33",
+      "price": "10000000",
+      "detail": ".. Xưởng sỉ quần áo ANN chuyên sỉ quần áo nam nữ chất lượng tốt giá gốc không qua trung gian. Chất liệu tổng hợp.Size: 35-36-37-38-39Size chuẩn khách ..."
+    },
+    {
+      "id": "3o9nb9ilh",
+      "cateId": "lxb4uqiwq",
+      "name": "Giày Nam Đẹp",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fdownload.jfif?alt=media&token=19ece9f5-1c0d-45a6-9042-038aadd7b8df",
+      "price": "50000000",
+      "detail": "Giày thể thao nam nữ phản quang (không phải phát sáng nhé khách)., size 35 - 42, Đế cao khoảng 5cm, - Phù hợp với mọi hoạt động: đi du lịch, đi dạo, ..."
+    },
+    {
+      "id": "bymapmip2",
+      "cateId": "7g789d60q",
+      "name": "giay1234513333",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2FMe22qe_simg_de2fe0_500x500_maxb.jpg?alt=media&token=8e4b0d89-a1fa-48f1-aa82-58c6815be28c",
+      "price": "50000000",
+      "detail": ".. Xưởng sỉ quần áo ANN chuyên sỉ quần áo nam nữ chất lượng tốt giá gốc không qua trung gian. Chất liệu tổng hợp.Size: 35-36-37-38-39Size chuẩn khách ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "lmd791oy3",
+      "name": "Giày học sinh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2F89666746fe7852ecd1af399f29ff4cf1.jfif?alt=media&token=f0b708b3-272c-47fe-b768-41ea2be7a541",
+      "description": "description 1"
+    },
+    {
+      "id": "7xga3ns1z",
+      "name": "Giầy Nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2F872f7e6c38bbcd2bb5b68952c6b5cfef.jfif?alt=media&token=77285dd6-9413-454c-a195-710f2d679b86",
+      "description": "description 2"
+    },
+    {
+      "id": "7g789d60q",
+      "name": "Giầy Nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fdownload%20(1).jfif?alt=media&token=967e2e7e-d8ed-4a2f-8bc8-5a50bd9dcf10",
+      "description": "description 3"
+    },
+    {
+      "id": "lxb4uqiwq",
+      "name": "Giầy thể thao",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fa8e79958f1714c1a675e8e3357e05cd9.jfif?alt=media&token=d427373e-569f-43e4-826c-2c41f07b6b96",
+      "description": "description 4"
+    }
+  ]
+}
